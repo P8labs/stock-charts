@@ -1,5 +1,9 @@
 # StockViz
 
+> [!IMPORTANT]  
+> This project was built with Fluvio collaboration. 
+> Now, It is not maintained and was only PoC. If you want to built something on top of it feel free to do so.
+> Putting this repo on readonly and from 19 April 2026 shutting down all deployments related to this project.
 ## Realtime - Stock Charts with Fluvio
 
 This repository contains a complete system for fetching and visualizing real-time stock market data. It includes:
@@ -9,13 +13,7 @@ This repository contains a complete system for fetching and visualizing real-tim
 3. **Fluvio**: Configuration files for Fluvio cloud deployment.
 
 ## Demo
-
-[Live Preview](https://stockviz.vercel.app/)
-
-[Vote on Quira ✅️](https://quira.sh/repo/priyanshuverma-dev-stock-charts-843820386?utm_source=copy&utm_share_context=quests_creators)
-
 [Youtube link](https://www.youtube.com/watch?v=pHJBXAq21iw)
-
 [demo](https://github.com/user-attachments/assets/eaad9473-e23a-41b2-96d4-9ff6f2b2d816)
 
 
